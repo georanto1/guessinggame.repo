@@ -12,3 +12,4 @@ README.md:	guessinggame.sh
 
 clean:
 	rm README.md 
+nano README.md
