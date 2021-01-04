@@ -1,1 +1,1 @@
-# guessinggame.repo
+# The Guessing Game
